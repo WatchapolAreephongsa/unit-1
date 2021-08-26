@@ -4,13 +4,15 @@ A markdown file is a text file with special formating. These file have extension
 
 ## My first picture of the computer
 
-![IMG_D29FCAF50ACA-1](https://user-images.githubusercontent.com/82266864/130882256-a3e6e0cc-173f-487f-a199-d33ed053a112.jpeg)
+![](IMG_D29FCAF50ACA-1.jpeg)
 
 
 **Fig. 1** My first try at drawing a computer
 
 In **Fig. 1** I tried to draw a computer and I could draw only the outside of the computer. I think I will learn more about its interior and its function. Next time, I will try to show both the inside and outside structure of the computre.
 
-# title(one #)
-## subtitle(two ##)
+# title
+## subtitle
 ### smaller title
+**bold**
+
