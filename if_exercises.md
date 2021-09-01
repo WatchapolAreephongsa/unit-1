@@ -1,7 +1,9 @@
 # Solution to if exercise(chapter 3) in snakify
 
 ## 1. Minimum of two numbers 
-! picture
+
+![Minimum num](https://user-images.githubusercontent.com/82266864/131640149-0420f35a-0404-4efc-8b4b-11169f857b3a.png)
+
 
 ```py
 # Program to print the smaller number out of 2 given numbers.
@@ -16,7 +18,8 @@ else:
 ```
 
 ## 2. Sign function
-! picture
+![Sign func](https://user-images.githubusercontent.com/82266864/131640179-d72fd382-8790-4498-b480-63277ec58dcc.png)
+
 
 ```py
 #For the given integer X print 1 if it's positive, -1 if it's negative, or 0 if it's equal to zero.
@@ -32,7 +35,7 @@ else:
 ```
 
 ## 3. Minimum of three numbers
-! picture
+![min  of 3 num](https://user-images.githubusercontent.com/82266864/131640209-58da789a-4acc-494f-be78-29a2ff0745a6.png)
 
 ```py
 #Given three integers, print the smallest value.
@@ -50,7 +53,8 @@ else:
 ```
 
 ## 4. Equal numbers
-! picture
+![Equal num](https://user-images.githubusercontent.com/82266864/131640262-09f26358-e5e5-43ae-be74-2f1f1871fa39.png)
+
 
 ```py
 #Given three integers, determine how many of them are equal to each other.
@@ -71,7 +75,8 @@ else:
 
 
 ## 5. Rook move
-! picture
+![Rook](https://user-images.githubusercontent.com/82266864/131640305-7bf5aa4a-73de-4c16-b504-c4f3363d35ca.png)
+
 
 ```py
 #Given two different cells of the chessboard, determine whether a rook can go from 
@@ -90,7 +95,7 @@ else:
 
 
 ## 6. Chess board-same color
-! picture
+![Chess board(Same color)](https://user-images.githubusercontent.com/82266864/131640349-bacfc6cb-6ebb-40cc-9210-ef0036a5b74d.png)
 
 ```py
 #Given two cells of a chessboard. If they are painted in one color, print the word YES,
@@ -110,7 +115,8 @@ else:
 
 
 ## 7. King move
-! picture
+![King Move](https://user-images.githubusercontent.com/82266864/131640403-9fd08a2a-fe2e-4fdd-9bfb-4bd8df6533e6.png)
+
 
 ```py
 #Chess king moves horizontally, vertically or diagonally to any adjacent cell. 
@@ -130,7 +136,7 @@ else:
 
 
 ## 8. Bishop moves
-! picture
+![Bishop moves](https://user-images.githubusercontent.com/82266864/131640433-1685ae29-5619-4e89-ab57-8a80547123b1.png)
 
 ```py
 #In chess, the bishop moves diagonally, any number of squares. Given two different squares of the chessboard,
@@ -149,7 +155,8 @@ else:
 
 
 ## 9. Queen move
-! picture
+![Queen move](https://user-images.githubusercontent.com/82266864/131640528-80764bc2-3ead-41c2-a1e1-affaeb28b710.png)
+
 
 ```py
 #Chess queen moves horizontally, vertically or diagonally to any number of cells. 
@@ -169,7 +176,8 @@ else:
 
 
 ## 10. Knight move
-! picture
+![Knight move](https://user-images.githubusercontent.com/82266864/131640554-525fdaba-8be9-4f84-ab22-35398c26b2af.png)
+
 
 ```py
 #Chess knight moves like the letter L. It can move two cells horizontally and one cell vertically, 
@@ -189,7 +197,7 @@ else:
 
 
 ## 11. Chocolate bar
-! picture
+![Chocolate bar](https://user-images.githubusercontent.com/82266864/131640574-3351ab89-342d-4f7d-90d8-5c2a32c9a0bc.png)
 
 ```py
 #Chocolate bar has the form of a rectangle divided into n×m portions. 
@@ -208,7 +216,8 @@ else:
 
 
 ## 12. Leap year
-! picture
+![Leap year](https://user-images.githubusercontent.com/82266864/131640636-0d7abbea-8685-43af-88c0-80fd0d3edb91.png)
+
 
 ```py
 #Given the year number. You need to check if this year is a leap year. If it is, print LEAP, otherwise print COMMON.
