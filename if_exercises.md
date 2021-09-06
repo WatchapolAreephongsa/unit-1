@@ -1,5 +1,9 @@
 # Solution to if exercise(chapter 3) in snakify
 
+## Note: Use diamond shape for decision(if condition) and use parallelogram for output and input. ##
+
+![9991246baa761e7cede10df3113d9193](https://user-images.githubusercontent.com/82266864/132154020-eb05a152-bccc-46ef-ae01-3a5105346368.jpeg)
+
 ## 1. Minimum of two numbers 
 
 ![Minimum num](https://user-images.githubusercontent.com/82266864/131640149-0420f35a-0404-4efc-8b4b-11169f857b3a.png)
