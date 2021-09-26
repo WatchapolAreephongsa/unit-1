@@ -31,3 +31,4 @@ while step < 11:
 print(f"{step},{initial-1}")
 
 ```
+### Solution = 3778888999
