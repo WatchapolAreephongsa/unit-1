@@ -91,7 +91,10 @@ def mystery_box4(n1,n2,n3,n4,n5,n6,n7):
     n7 = 0
     total = n1+n2+n3+n4+n5+n6+n7
     avg = total/5
-    return avg
+    print(avg)
+    return f"[{n1}, {n2}, {n3}, {n5}, {n6}]"
+
+
 output = mystery_box4(5,6,3,8,1,7,9)
 print(output)
 
