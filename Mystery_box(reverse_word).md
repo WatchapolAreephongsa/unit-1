@@ -1,5 +1,6 @@
 
 <img width="907" alt="MB" src="https://user-images.githubusercontent.com/82266864/135253605-12e48b05-2807-4afa-aa2e-62c2885f6980.png">
+
 ## Mystery Box 1
 
 ``` py
