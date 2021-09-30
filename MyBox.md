@@ -1,6 +1,6 @@
 ```py
 
-def MyBox1(letter1, letter2, letter3):
+def Box1(letter1, letter2, letter3):
     if letter1 > 'Z':
         number1 = ord(letter1)-96
     else:
@@ -18,7 +18,7 @@ def MyBox1(letter1, letter2, letter3):
 #change letter to number A = a using ord and then times all 3 values
 
 
-def MyBox2(num1,num2):
+def Box2(num1,num2):
     n1 = str(num1)
     n2 = str(num2)
     n = n1+n2
@@ -28,7 +28,7 @@ def MyBox2(num1,num2):
 #Stick both number together and then fiond the remainder after divide by 7
 
 
-def MyBox3(a,b):
+def Box3(a,b):
     country = ['Australia', 'Brazil','China', 'Denmark','Egypt', 'Finland','Greece', 'Hong Kong','India', 'Japan','Kenya','Luxembourg', 'Malaysia','New Zealand', 'Oman', 'Portugal','Qatar', 'Russia', 'Switzerland','Thailand','USA', 'Vietnam','UWC','ISAK' ,'Yamen','Zambia']
     to = (a+b)%25
     country = country[to]
@@ -37,7 +37,7 @@ def MyBox3(a,b):
 
 
 
-output = MyBox3(MyBox2(MyBox1('A','U','P'),MyBox1('A','B','C')),MyBox2(MyBox1('C','A','T'),MyBox1('D','O','G')))
+output = Box3(Box2(Box1('A','U','P'),Box1('A','B','C')),Box2(Box1('C','A','T'),Box1('D','O','G')))
 
 print(output)
 
