@@ -1,5 +1,3 @@
-```py
-
 def Box1(letter1, letter2, letter3):
     if letter1 > 'Z':
         number1 = ord(letter1)-96
@@ -17,7 +15,6 @@ def Box1(letter1, letter2, letter3):
     return total
 #change letter to number A = a using ord and then times all 3 values
 
-
 def Box2(num1,num2):
     n1 = str(num1)
     n2 = str(num2)
@@ -27,7 +24,6 @@ def Box2(num1,num2):
     return final
 #Stick both number together and then fiond the remainder after divide by 7
 
-
 def Box3(a,b):
     country = ['Australia', 'Brazil','China', 'Denmark','Egypt', 'Finland','Greece', 'Hong Kong','India', 'Japan','Kenya','Luxembourg', 'Malaysia','New Zealand', 'Oman', 'Portugal','Qatar', 'Russia', 'Switzerland','Thailand','USA', 'Vietnam','UWC','ISAK' ,'Yamen','Zambia']
     to = (a+b)%25
@@ -36,9 +32,6 @@ def Box3(a,b):
 #List of country in alphabetical order
 
 
-
-output = Box3(Box2(Box1('A','U','P'),Box1('A','B','C')),Box2(Box1('C','A','T'),Box1('D','O','G')))
+output = Box3(Box2(Box1('U','w','C'),Box1('A','b','c')),Box2(Box1('c','a','t'),Box1('D','O','G')))
 
 print(output)
-
-```
