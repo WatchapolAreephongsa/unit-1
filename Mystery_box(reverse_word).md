@@ -86,16 +86,72 @@ print(output)
 
 ```py
 
+
 def mystery_box4(n1,n2,n3,n4,n5,n6,n7):
-    n4 = 0
-    n7 = 0
-    total = n1+n2+n3+n4+n5+n6+n7
-    avg = total/5
-    print(avg)
-    return f"[{n1}, {n2}, {n3}, {n5}, {n6}]"
+    totalib = 0
+    i = 0
+    numb = "["
+    if n1 <= 7:
+        totalib += n1
+        i += 1
+        num = str(n1)
+        numb += f"{num}"
+    else:
+        totalib += 0
+    if n2 <= 7:
+        totalib += n2
+        i += 1
+        num = str(n2)
+        numb += f", {num}"
+    else:
+        totalib += 0
+    if n3 <= 7:
+        totalib += n3
+        i += 1
+        num = str(n3)
+        numb += f", {num}"
+    else:
+        totalib += 0
+    if n4 <= 7:
+        totalib += n4
+        i += 1
+        num = str(n4)
+        numb += f", {num}"
+    else:
+        totalib += 0
+    if n5 <= 7:
+        totalib += n5
+        i += 1
+        num = str(n5)
+        numb += f", {num}"
+    else:
+        totalib += 0
+    if n6 <= 7:
+        totalib += n6
+        i += 1
+        num = str(n6)
+        numb += f", {num}"
+    else:
+        totalib += 0
+    if n7 <= 7:
+        totalib += n7
+        i += 1
+        num = str(n7)
+        numb += f", {num}"
+    else:
+        totalib += 0
+    avg =  totalib/i
+    numb+= "]"
+
+    return [numb,avg]
 
 
-output = mystery_box4(5,6,3,8,1,7,9)
-print(output)
+
+
+
+
+numb, avg = mystery_box4(5,6,3,8,1,7,9)
+print(numb)
+print(avg)
 
 ```
