@@ -21,24 +21,24 @@ def Box2(num1,num2):
     n2 = str(num2)
     n = n1+n2
     number = int(n)
-    final = number % 14
+    final = number % 27
     return final
-#Stick both number together and then fiond the remainder after divide by 7
+#Stick both number together and then fiond the remainder after divide by 27
 
 def Box3(a,b):
     to = (a+b)%52
     if to<=13:
         card = to%13
-        c = "Clover"
+        c = "Spade"
     if to>13 and to<=26:
         card = to%13
-        c = "Diamond"
+        c = "Club"
     if to>26 and to<=39:
         card = to%13
-        c = "Spade"
+        c = "Heart"
     if to>39:
         card = to%13
-        c = "Heart"
+        c = "Diamond"
     if card == 0:
         card = "King"
     if card == 11:
@@ -49,15 +49,15 @@ def Box3(a,b):
         card = "Queen"
     return f"Your card is {card} {c}."
 
-#List of country in alphabetical order
+#List of cards in a deck
 
 print(Box1('U','w','C'))
 print(Box1('A','b','c'))
 print(Box1('D','O','G'))
-print(Box1('c','o','w'))
+print(Box1('c','a','t'))
 print(Box2(Box1('U','w','C'),Box1('A','b','c')))
-print(Box2(Box1('D','O','G'),Box1('c','o','w')))
-output = Box3(Box2(Box1('U','w','C'),Box1('A','b','c')),Box2(Box1('D','O','G'),Box1('c','o','w')))
+print(Box2(Box1('D','O','G'),Box1('c','a','t')))
+output = Box3(Box2(Box1('U','w','C'),Box1('A','b','c')),Box2(Box1('D','O','G'),Box1('c','a','t')))
 
 print(output)
 ```
