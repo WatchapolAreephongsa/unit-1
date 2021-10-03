@@ -14,8 +14,27 @@ The owner of the local game shop is an enthusiast of classic computer games. He 
 Apart for this requirements, the owner is open to any type of game, topic or genre.
 
 ## Proposed Solution
+Design Statement:
+I will design and make a game for a client who is The owner of the local game shop. The game will be an RPG game about clearing the dungeon conduct using Pycharm.
+It will take 3 weeks to make and evaluate according to the success criteria below.
+
 
 ## Success Criteria
+
+
+The game has to be entirely text-based.
+The game must record the time played
+The game must record the player’s name and score.
+
+  - Can select the difficulty level(Normal and Hard)
+   - Easy 
+     Can respawn when dying
+
+  -Hard
+    Cannot respawn
+    Monster HP*1.5
+Have hidden item(hidden chest/boss)
+Dungeon game with at least 10 levels(10 normal dungeon rooms+boss room+hidden boss/chest room )
 
 
 # Criteria B: Design
