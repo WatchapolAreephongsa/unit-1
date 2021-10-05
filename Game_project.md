@@ -40,12 +40,13 @@ Dungeon game with at least 10 levels(10 normal dungeon rooms+boss room+hidden bo
 # Criteria B: Design
 
 ## System Diagram
+![IMG_2F0D75F8BEB2-1](https://user-images.githubusercontent.com/82266864/135953524-507fe1af-f51b-48ba-82ed-0afa2cd38b9c.jpeg)
 
 ## Flow Diagrams
 
 ## Record of Tasks
 | Task No | Planned Action | Planned Outcome | Time estimate | Target completion date | Criterion |
 |---------|----------------|-----------------|---------------|------------------------|-----------|
-|         |                |                 |               |                        |           |
+|     1   |Record Player's name |    The game can record the player's name             |               |                        |           |
 |         |                |                 |               |                        |           |
 |         |                |                 |               |                        |           |
