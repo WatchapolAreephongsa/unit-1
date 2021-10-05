@@ -27,11 +27,11 @@ It will take 3 weeks to make and evaluate according to the success criteria belo
 - The game must record the player’s name and score.
 
   - Can select the difficulty level(Normal and Hard)
-   - Easy 
+   - Easy:
      Can respawn when dying
 
-  -Hard
-    Cannot respawn
+  - Hard:
+    Cannot respawn, 
     Monster HP*1.5
 Have hidden item(hidden chest/boss)
 Dungeon game with at least 10 levels(10 normal dungeon rooms+boss room+hidden boss/chest room )
