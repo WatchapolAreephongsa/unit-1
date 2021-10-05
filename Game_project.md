@@ -40,6 +40,9 @@ It will take 3 weeks to make and evaluate according to the success criteria belo
 
 ## System Diagram
 ![IMG_2F0D75F8BEB2-1](https://user-images.githubusercontent.com/82266864/135953524-507fe1af-f51b-48ba-82ed-0afa2cd38b9c.jpeg)
+**Figure 1.** System diagram for the proposed solution
+
+As shown in **Fig. 1**, the proposed solution runs on Python and it is developed using Pycharm (v. 2021). The proposed game...
 
 ## Flow Diagrams
 
