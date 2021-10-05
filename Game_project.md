@@ -25,8 +25,7 @@ It will take 3 weeks to make and evaluate according to the success criteria belo
 - The game has to be entirely text-based.
 - The game must record the time played
 - The game must record the player’s name and score.
-
-  - Can select the difficulty level(Normal and Hard)
+- Can select the difficulty level(Normal and Hard)
    -   Easy:
      Can respawn when dying
 
