@@ -33,8 +33,8 @@ It will take 3 weeks to make and evaluate according to the success criteria belo
   -  Hard:
     Cannot respawn, 
     Monster HP*1.5
-Have hidden item(hidden chest/boss)
-Dungeon game with at least 10 levels(10 normal dungeon rooms+boss room+hidden boss/chest room )
+- Have hidden item(hidden chest/boss)
+- Dungeon game with at least 10 levels(10 normal dungeon rooms+boss room+hidden boss/chest room )
 
 
 # Criteria B: Design
