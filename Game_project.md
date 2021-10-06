@@ -18,7 +18,7 @@ Design Statement:
 I will design and make a game for a client who is The owner of the local game shop. The game will be an RPG game about clearing the dungeon conduct using Pycharm.
 It will take 3 weeks to make and evaluate according to the success criteria below.
 
-
+In this project I will use python to create the text base game because of 3 main reasons. First of all, python is one of the simplest language we can use to create text based game, since python language can 
 ## Success Criteria
 
 
@@ -42,8 +42,7 @@ It will take 3 weeks to make and evaluate according to the success criteria belo
 ![IMG_2F0D75F8BEB2-1](https://user-images.githubusercontent.com/82266864/135953524-507fe1af-f51b-48ba-82ed-0afa2cd38b9c.jpeg)
 **Figure 1.** System diagram for the proposed solution
 
-As shown in **Fig. 1**, the proposed solution runs on Python and it is developed using Pycharm (v. 2021). The proposed game...
-
+As shown in **Fig. 1**, the proposed solution runs on Python and it is developed using Pycharm (v. 2021). The proposed game, "DNG" will be able to save player's name, score and time and it will allow the player to select the difficulty and save their check point when they die.
 ## Flow Diagrams
 
 ## Record of Tasks
