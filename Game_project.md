@@ -46,8 +46,8 @@ As shown in **Fig. 1**, the proposed solution runs on Python and it is developed
 ## Flow Diagrams
 ## Ceazars Cypher
 ## Record of Tasks
-| Task No | Planned Action                              | Planned Outcome                             | Time estimate | Target completion date | Criterion |
-|---------|---------------------------------------------|---------------------------------------------|---------------|------------------------|-----------|
-| 1       | Record Player's name                        | The game can record the player's name       | 1 hour        | 25 September           | B         |
-| 2       | Create a function for encoding the database | A function tested that encodes the database | 40 minutes    | 7 October              | C         |
-|         |                                             |                                             |               |                        |           |
+| Task No | Planned Action                                         | Planned Outcome                                                                                                   | Time estimate | Target completion date | Criterion |
+|---------|--------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------|---------------|------------------------|-----------|
+| 1       | Record Player's name                                   | The game can record the player's name                                                                             | 1 hour        | 25 September           | B         |
+| 2       | Create a function for encoding the database            | A function tested that encodes the database                                                                       | 40 minutes    | 7 October              | C         |
+| 3       | Unit Test:function for encoding with the Caesar cypher | To check that the function works as expected. Test with input "hello" and key = 1. The outcome should be "ifkkp". | 5 minutes     | 7 October              | C         |
