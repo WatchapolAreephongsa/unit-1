@@ -44,10 +44,10 @@ In this project I will use python to create the text base game because of 3 main
 
 As shown in **Fig. 1**, the proposed solution runs on Python and it is developed using Pycharm (v. 2021). The proposed game, "DNG" will be able to save player's name, score and time and it will allow the player to select the difficulty and save their check point when they die.
 ## Flow Diagrams
-
+## Ceazars Cypher
 ## Record of Tasks
-| Task No | Planned Action | Planned Outcome | Time estimate | Target completion date | Criterion |
-|---------|----------------|-----------------|---------------|------------------------|-----------|
-|     1   |Record Player's name |    The game can record the player's name             |               |                        |           |
-|         |                |                 |               |                        |           |
-|         |                |                 |               |                        |           |
+| Task No | Planned Action                              | Planned Outcome                             | Time estimate | Target completion date | Criterion |
+|---------|---------------------------------------------|---------------------------------------------|---------------|------------------------|-----------|
+| 1       | Record Player's name                        | The game can record the player's name       | 1 hour        | 25 September           | B         |
+| 2       | Create a function for encoding the database | A function tested that encodes the database | 40 minutes    | 7 October              | C         |
+|         |                                             |                                             |               |                        |           |
