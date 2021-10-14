@@ -21,19 +21,20 @@ It will take 3 weeks to make and evaluate according to the success criteria belo
 In this project I will use python to create the text base game because of 3 main reasons. First of all, python is one of the simplest language we can use to create text based game, since python language can 
 ## Success Criteria
 
-
+Client's
 - The game has to be entirely text-based.
 - The game must record the time played
 - The game must record the player’s name and score.
+My own criteria
 - Can select the difficulty level(Normal and Hard)
    -   Easy:
      Can respawn when dying
 
   -  Hard:
     Cannot respawn, 
-    Monster HP*1.5
-- Have hidden item(hidden chest/boss)
-- Dungeon game with at least 10 levels(10 normal dungeon rooms+boss room+hidden boss/chest room )
+    Monster attack increase and damage recieved decrease by 1.5 times.
+- Have hidden item(hidden chest) for hard mode
+- Dungeon game with at least 5 levels(5 normal dungeon rooms include boss room)
 
 
 # Criteria B: Design
@@ -48,6 +49,12 @@ As shown in **Fig. 1**, the proposed solution runs on Python and it is developed
 ## Record of Tasks
 | Task No | Planned Action                                         | Planned Outcome                                                                                                   | Time estimate | Target completion date | Criterion |
 |---------|--------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------|---------------|------------------------|-----------|
-| 1       | Record Player's name                                   | The game can record the player's name                                                                             | 1 hour        | 25 September           | B         |
-| 2       | Create a function for encoding the database            | A function tested that encodes the database                                                                       | 40 minutes    | 7 October              | C         |
-| 3       | Unit Test:function for encoding with the Caesar cypher | To check that the function works as expected. Test with input "hello" and key = 1. The outcome should be "ifmmp". | 5 minutes     | 7 October              | E         |
+|         | Create Design Statement and Success Criteria           | Has Design statement(250 words) with 3 extra success criteria.                                                    | 30 minutes    | 20 September           | B         |
+|         | Record Player's name in the database                   | The game can record the player's name in the database and can read it.                                            | 1 hour        | 23 September           | C         |
+|         | Create System Diagram for the game                     | The system diagram can show the basic information of the system to create the game.                               | 20 minutes    | 23 September           | B         |
+|         | Try to measure the time play using "Import time"       | The game can show the time played by player                                                                       | 30 minutes    | 25 September           | C         |
+|         | Create a function for encoding the database            | A function tested that encodes the database                                                                       | 40 minutes    | 7 October              | C         |
+|         | Unit Test:function for encoding with the Caesar cypher | To check that the function works as expected. Test with input "hello" and key = 1. The outcome should be "ifmmp". | 5 minutes     | 7 October              | E         |
+
+
+MVP
