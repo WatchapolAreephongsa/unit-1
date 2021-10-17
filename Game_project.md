@@ -26,15 +26,14 @@ Client's
 - The game must record the time played
 - The game must record the player’s name and score.
 My own criteria
-- Can select the difficulty level(Normal and Hard)
-   -   Easy:
-     Can respawn when dying
+- Story game
+   - Based on Series squid game
+   - Survival game
+   - Has 7 chapters which each chapter will have different game
+- Offer players alternative ending
+   -Depending on player's choices
+- Allow the player to select chapter they want to play after complete the game first time.
 
-  -  Hard:
-    Cannot respawn, 
-    Monster attack increase and damage recieved decrease by 1.5 times.
-- Have hidden item(hidden chest) for hard mode
-- Dungeon game with at least 5 levels(5 normal dungeon rooms include boss room)
 
 
 # Criteria B: Design
