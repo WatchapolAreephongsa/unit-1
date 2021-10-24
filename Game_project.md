@@ -1,5 +1,5 @@
 # Unit 1: A classic game 
-![](game.gif)
+![game](https://user-images.githubusercontent.com/82266864/138603002-17cc4a82-0dbb-49b6-889f-7842dbc692ea.gif)
 
 # Criteria A: Planning
 
@@ -64,6 +64,9 @@ As shown in **Fig. 2**, the proposed solution runs on Python 3.9 and it is devel
 
 ![Encoder (2)](https://user-images.githubusercontent.com/82266864/138595140-22cbbec8-4053-4536-90b7-15733c19e6df.png)
 **Figure 3.** Flow Diagram for encoder
+
+
+___________________________________________________________________________________________________________________________________________________________________
 
 
 ![Encoder (1)](https://user-images.githubusercontent.com/82266864/138595112-57116999-375e-400d-8c33-466c5cb016a9.png)
