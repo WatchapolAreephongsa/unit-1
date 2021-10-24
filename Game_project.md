@@ -76,7 +76,8 @@ ________________________________________________________________________________
 The database in the game has to be protected so that personal data is not exposed. To solve this requirement I am using the Caesar cypher. Fig. 3/ Fig. 4 shows the flow diagram for this function.
 
 ### Game
-![Uploading letter.png…]()
+
+![letter](https://user-images.githubusercontent.com/82266864/138603350-fe16aa33-f1cd-41e5-9587-16cdb5352612.png)
 
 **Figure 5.** Flow Diagram for function letter
 
