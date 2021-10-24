@@ -101,18 +101,21 @@ This function is use to print some words or sentence, letter by letter with an i
 | 17      | Unit Test: MVP alpha test.                                      | Test the MVP to see the bug and mistakes made in order to fix it.                                                 | 1 hour        | 15 October             | E         |
 | 18      | Make MVP explanation video                                      | Video to explain to client about the basic information of the game and show how the game work.                    | 1 hour        | 15 October             | B         |
 | 19      | Work on Record of Tasks.                                        | Work on the record of task, update it and plan the future action to make this game.                               | 3 hours       | 15 October             | A         |
-| 20      | Create new system diagram for new plan.                         | New system diagram that shows each part from the software to module and database of the new game.                 | 1 hour        | 12 October             | B         |
-| 21      | Create flow diagram for encoder.                                | Flow chart diagram that shows how the secret encoder work.                                                        | 30 minutes    | 14 October             | B         |
-| 22      | Create flow diagram for decoder                                 | Flow chart diagram that shows how the decoder work.                                                               | 10 minutes    | 14 October             | B         |
-| 23      | Update the code for database.                                   | Put information about player's final status and show time in exact minutes and seconds.                           | 10 minutes    | 15 October             | C         |
-| 24      | Create the function to record player information when they die. | The function that will record the player information and show Game over screen when the player dies.              | 40 minutes    | 15 October             | C         |
-| 25      | Code chapter 2-4.                                               | Create the story after the MVP and put them together.                                                             | 1 day         | 15 October             | C         |
-| 26      | Unit test: Chapter 1(MVP) - 4                                   | Test the code that I have right now to see mistakes made and to see the transition between chapters.              | 30 minutes    | 15 October             | E         |
+| 20      | Create new system diagram for new plan.                         | New system diagram that shows each part from the software to module and database of the new game.                 | 1 hour        | 16 October             | B         |
+| 21      | Create flow diagram for encoder.                                | Flow chart diagram that shows how the secret encoder work.                                                        | 30 minutes    | 16 October             | B         |
+| 22      | Create flow diagram for decoder                                 | Flow chart diagram that shows how the decoder work.                                                               | 10 minutes    | 16 October             | B         |
+| 23      | Update the code for database.                                   | Put information about player's final status and show time in exact minutes and seconds.                           | 10 minutes    | 17 October             | C         |
+| 24      | Create the function to record player information when they die. | The function that will record the player information and show Game over screen when the player dies.              | 40 minutes    | 17 October             | C         |
+| 25      | Code chapter 2-4.                                               | Create the story after the MVP and put them together.                                                             | 1 day         | 17 October             | C         |
+| 26      | Unit test: Chapter 1(MVP) - 4                                   | Test the code that I have right now to see mistakes made and to see the transition between chapters.              | 30 minutes    | 17 October             | E         |
 | 27      | Code until the end(Chapter 5-7).                                | Finish the first version of the game.                                                                             | 2 days        | 18 October             | C         |
-| 28      | Create code that allows player to go to any chapter they want.  | Players can play any chapter they want.                                                                           | 2 hours       | 18 October             | C         |
-| 29      | Unit test: First version alpha test.                            | Test the final product.                                                                                           | 2 hours       | 25 October             | E         |
-| 30      | Ask 3 people to try the game.                                   | Get feedback from other people(Both computer science students and not) to improve the game.                       | 1 week        | 30 October             | E         |
-| 31      | Fix according to feedback recieved.                             | Change some parts of the code using the feedbacks from others.                                                    | 1 day         | 31 October             | C         |
+| 28      | Update Record of Tasks.                                         | Update record of task and planning.                                                                               | 20 minutes    | 18 October             | A         |
+| 29      | Create code that allows player to go to any chapter they want.  | Players can play any chapter they want.                                                                           | 2 hours       | 20 October             | C         |
+| 30      | Unit test: First version alpha test.                            | Test the final product.                                                                                           | 2 hours       | 24 October             | E         |
+| 31      | Revise and finish all the planning stage.                       | Complete the whole planning include planning and design.                                                          | 3 hours       | 24 October             | A         |
+| 32      | Ask 3 people to try the game.                                   | Get feedback from other people(Both computer science students and not) to improve the game.                       | 1 week        | 30 October             | E         |
+| 33      | Fix according to feedback recieved.                             | Change some parts of the code using the feedbacks from others.                                                    | 1 day         | 31 October             | C         |
+
 
 ## MVP
 ```py
@@ -464,3 +467,4 @@ if scoreboard ==1:
 print("END of First Chapter:Debt")
 
 ```
+Final Product(Working)
