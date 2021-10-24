@@ -114,7 +114,7 @@ This function is use to print some words or sentence, letter by letter with an i
 | 30      | Ask 3 people to try the game.                                   | Get feedback from other people(Both computer science students and not) to improve the game.                       | 1 week        | 30 October             | E         |
 | 31      | Fix according to feedback recieved.                             | Change some parts of the code using the feedbacks from others.                                                    | 1 day         | 31 October             | C         |
 
-MVP
+## MVP
 ```py
 
 #Note: To play this game, player needs to go to the file name which is at the top right
