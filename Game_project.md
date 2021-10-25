@@ -46,42 +46,41 @@ My own criteria
 
 ## System Diagram
 
-![IMG_2F0D75F8BEB2-1](https://user-images.githubusercontent.com/82266864/135953524-507fe1af-f51b-48ba-82ed-0afa2cd38b9c.jpeg)
+![IMG_C03C8242F1FB-1](https://user-images.githubusercontent.com/82266864/138682292-a552a4dd-9dcb-476f-8e76-349012e204d3.jpeg)
+
+
 **Figure 1.** System diagram for the proposed solution
 
-As shown in **Fig. 1**, the proposed solution runs on Python and it is developed using Pycharm (v. 2021). The proposed game, "DNG" will be able to save player's name, score and time and it will allow the player to select the difficulty and save their check point when they die. This game will be code on software macOS BigSur Ver.11.4.
-
-
-![IMG_D4B5286D405F-1](https://user-images.githubusercontent.com/82266864/138593212-a40dbba5-4448-4a36-bd69-cfb775092c65.jpeg)
-
-**Figure 2.** System diagram for the proposed solution
-
-As shown in **Fig. 2**, the proposed solution runs on Python 3.9 and it is developed using Pycharm (v. 2021). The proposed game, "ISAK Game" will be able to save player's name, score, time and it will save player's final status when the player die or when the player complete the game. This game will be code on software macOS BigSur Ver.11.4 on MacBook Air 2020.
+As shown in **Fig. 1**, the proposed solution runs on Python 3.9 and it is developed using Pycharm (v. 2021). The proposed game, "ISAK Game" will be able to save player's name, score, time and it will save player's final status when the player die or when the player complete the game. This game will be code on software macOS BigSur Ver.11.4 on MacBook Air 2020.
 
 
 ## Flow Diagrams
 ### Ceasars Cypher
 
 ![Encoder (2)](https://user-images.githubusercontent.com/82266864/138595140-22cbbec8-4053-4536-90b7-15733c19e6df.png)
-**Figure 3.** Flow Diagram for encoder
+**Figure 2.** Flow Diagram for encoder
 
 
 ___________________________________________________________________________________________________________________________________________________________________
 
 
-![Encoder (1)](https://user-images.githubusercontent.com/82266864/138595112-57116999-375e-400d-8c33-466c5cb016a9.png)
 
-**Figure 4.** Flow Diagram for decoder
-
-The database in the game has to be protected so that personal data is not exposed. To solve this requirement I am using the Caesar cypher. Fig. 3/ Fig. 4 shows the flow diagram for this function.
 
 ### Game
 
 ![letter](https://user-images.githubusercontent.com/82266864/138603350-fe16aa33-f1cd-41e5-9587-16cdb5352612.png)
 
-**Figure 5.** Flow Diagram for function letter
+**Figure 3.** Flow Diagram for function letter
 
 This function is use to print some words or sentence, letter by letter with an inputted amount of delay per character.
+
+___________________________________________________________________________________________________________________________________________________________________
+
+![Leap year (1)](https://user-images.githubusercontent.com/82266864/138696364-6bfb6c32-ecb6-48c2-b9fc-dd5ed953b70b.png)
+
+**Figure 4.** Flow Diagram for function name
+
+This function will ask the player's name and the confirmation of name. It also allows the player to change their name if they misspelled it.
 
 ## Record of Tasks
 | Task No | Planned Action                                                  | Planned Outcome                                                                                                   | Time estimate | Target completion date | Criterion |
@@ -102,7 +101,7 @@ This function is use to print some words or sentence, letter by letter with an i
 | 14      | Create function for delay.                                      | Create the function to slowdown some process(output)                                                              | 10 minutes    | 10 October             | C         |
 | 15      | Create function for player to press enter to continue.          | Create function that will continue the program once the player press enter.                                       | 10 minutes    | 11 October             | C         |
 | 16      | Create MVP(Chapter 1).                                          | First usable product for client to test and give feedback before continue to develop the game.                    | 2 days        | 15 October             | C         |
-| 17      | Unit Test: MVP alpha test.                                      | Test the MVP to see the bug and mistakes made in order to fix it.                                                 | 1 hour        | 15 October             | E         |
+| 17      | Integration Test: MVP alpha test.                               | Test the MVP to see the bug and mistakes made in order to fix it.                                                 | 1 hour        | 15 October             | E         |
 | 18      | Make MVP explanation video                                      | Video to explain to client about the basic information of the game and show how the game work.                    | 1 hour        | 15 October             | B         |
 | 19      | Work on Record of Tasks.                                        | Work on the record of task, update it and plan the future action to make this game.                               | 3 hours       | 15 October             | A         |
 | 20      | Create new system diagram for new plan.                         | New system diagram that shows each part from the software to module and database of the new game.                 | 1 hour        | 16 October             | B         |
@@ -111,16 +110,23 @@ This function is use to print some words or sentence, letter by letter with an i
 | 23      | Update the code for database.                                   | Put information about player's final status and show time in exact minutes and seconds.                           | 10 minutes    | 17 October             | C         |
 | 24      | Create the function to record player information when they die. | The function that will record the player information and show Game over screen when the player dies.              | 40 minutes    | 17 October             | C         |
 | 25      | Code chapter 2-4.                                               | Create the story after the MVP and put them together.                                                             | 1 day         | 17 October             | C         |
-| 26      | Unit test: Chapter 1(MVP) - 4                                   | Test the code that I have right now to see mistakes made and to see the transition between chapters.              | 30 minutes    | 17 October             | E         |
+| 26      | Integration test: Chapter 1(MVP) - 4                            | Test the code that I have right now to see mistakes made and to see the transition between chapters.              | 30 minutes    | 17 October             | E         |
 | 27      | Code until the end(Chapter 5-7).                                | Finish the first version of the game.                                                                             | 2 days        | 18 October             | C         |
 | 28      | Update Record of Tasks.                                         | Update record of task and planning.                                                                               | 20 minutes    | 18 October             | A         |
 | 29      | Create code that allows player to go to any chapter they want.  | Players can play any chapter they want.                                                                           | 2 hours       | 20 October             | C         |
-| 30      | Unit test: First version alpha test.                            | Test the final product.                                                                                           | 2 hours       | 24 October             | E         |
+| 30      | Integration test: First version alpha test.                     | Test the final product.                                                                                           | 2 hours       | 24 October             | E         |
 | 31      | Revise and finish all the planning stage.                       | Complete the whole planning include planning and design.                                                          | 3 hours       | 24 October             | A         |
-| 32      | Ask 3 people to try the game.                                   | Get feedback from other people(Both computer science students and not) to improve the game.                       | 1 week        | 30 October             | E         |
-| 33      | Fix according to feedback recieved.                             | Change some parts of the code using the feedbacks from others.                                                    | 1 day         | 31 October             | C         |
+| 32      | Code review                                                     | Check the quality of the code.                                                                                    | 1 hour        | 31 October             | E         |
 
+## Test Plan
 
+| Description                        | Type             | Inputs                                                                                                                                                                    | Expected Output                                                                                                                                                                                                                                                                             |
+|------------------------------------|------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Testing function name.             | Unit test        | 1. Run the program. 2. Click enter 3. Enter Name 4. Asking for confirmation                                                                                               | The name will be put in variable that and will be put in database.txt at the end of the game.                                                                                                                                                                                               |
+| Game test                          | Integration test | 1. Run the program 2. Click enter to continue 3. Input player's name 4. Follow the game's instructions. 5. Complete the game/Game over 6. Input 1 to show the scoreboard. | No bug and error and at the end of the game or when the player dies, the player's information include encoded name, score,  time and final status will be put in the database.txt. The player then can input 1 to show the scoreboard which will include all the information stated before. |
+| Function and chapter 1 Code review | Code review      | Check function and chapter 1: 1. Variable name 2. Comment 3. Repetition 4. Instruction                                                                                    | The variable name can help understand what each variable do with some comments explaining how each parts of the code work. The instruction for users should be clear and easy to follow and there shouldn't be a lot of repetition  (repetition should be changed to function).             |
+
+___________________________________________________________________________________________________________________________________________________________________
 ## MVP
 ```py
 
