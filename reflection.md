@@ -1,11 +1,11 @@
 # Reflection for Unit 1 Computer Science 2021 - Stop Think Write
-## 1. What are the steps in design cycle:
+## 1. What are the steps in design cycle.
 
  There are 5 main steps in the design cycle
 
- 1. Planning -  Plan for the proposed solution.
+ 1. Planning 
 
- 2. Design - Design the method 
+ 2. Design
 
  3. Development
 
