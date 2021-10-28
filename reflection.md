@@ -39,10 +39,15 @@ Before I took Computer Science, I thought that Comsci was a very hard subject fo
 
 -Experiment- Try different programs/ Research more function/module/library that can aid me in the project.
 
--Asking other- for help and to try as beta tester
+-Asking other- for help and to try as beta tester.
 
 #### What didn't work well/What I should improve:
 
 -My plan is not detailed enough - The plan was too vague ,so that it was pretty hard to follow along.
 
 -Success criteria wasn't achievable ,so I need to change all of my plan. - Success criteria that I setted was over my skill level and it was too hard for me to achieve it.
+
+
+### 7 As a developer, you are only responsible only for the accomplishment of the success criteria. Do you agree or disagree? Defend your answer.
+
+I think that the developer is responsible for their codes until they send the codes to the clients and get the approval since those codes or programs will be client's properties and not ours anymore. The problem that our codes might cause in the future it won't be our responsibility to fix all of those problems unless we have some contacts with clients or conditions such as if the client want us to fix some parts in order to solve the problem, we might have to.
