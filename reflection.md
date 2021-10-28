@@ -34,11 +34,15 @@ Before I took Computer Science, I thought that Comsci was a very hard subject fo
 #### What work well:
 
 -Time management-Make a time table which help me know when is the deadline for each part of the project.
+
 -Practice- Practice what I learned before ,so I know how each thing that I learned work and how to apply it in different scenarios.
+
 -Experiment- Try different programs/ Research more function/module/library that can aid me in the project.
+
 -Asking other- for help and to try as beta tester
 
 #### What didn't work well/What I should improve:
 
 -My plan is not detailed enough - The plan was too vague ,so that it was pretty hard to follow along.
+
 -Success criteria wasn't achievable ,so I need to change all of my plan. - Success criteria that I setted was over my skill level and it was too hard for me to achieve it.
