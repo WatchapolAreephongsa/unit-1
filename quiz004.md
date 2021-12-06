@@ -1,3 +1,4 @@
+<img width="1403" alt="Quiz4" src="https://user-images.githubusercontent.com/82266864/144792310-2efb7613-3797-4432-8caa-d96f0c689817.png">
 Write a funciton that receives an integer N, and returns all its factors.
 
 [HL] show also the addition of the factors show if the same as N
