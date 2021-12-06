@@ -19,3 +19,5 @@ def quiz (A,B,C):
 print(quiz(3,9,6))
 
 ```
+# Output
+<img width="1402" alt="Quiz2" src="https://user-images.githubusercontent.com/82266864/144792469-f8571030-c01c-4501-b814-d3862ad720e3.png">
