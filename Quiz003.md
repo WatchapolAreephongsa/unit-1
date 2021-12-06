@@ -22,3 +22,7 @@ output = rangePatternN(17)
 print(output)
 
 ```
+
+# Output
+<img width="1417" alt="Quiz3" src="https://user-images.githubusercontent.com/82266864/144792508-a9eb9a46-ed5b-4212-8cf3-8a3e6fabdf39.png">
+
