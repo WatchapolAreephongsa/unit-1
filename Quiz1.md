@@ -12,3 +12,6 @@ output= Makes20(19,1)
 print(output)
 
 ```
+# Output
+
+<img width="1398" alt="Quiz1" src="https://user-images.githubusercontent.com/82266864/144792405-91cde74c-e452-498d-8726-fcfc228e9679.png">
